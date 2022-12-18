@@ -12,7 +12,7 @@
 
 <body>
         <nav class="navbar navbar-expand-sm bg-dark">
-        <span class="navbar-brand text-white">${Session.usuarioAtual}</span>
+        <span class="navbar-brand text-white"></span>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
                     <a 
